@@ -1,0 +1,95 @@
+<Solution>
+  <PropertyGroup Name="PhoodooDoll" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Clairvoyance Scene">
+          <Folder Name="Clairvoyance Leader Board">
+            <Image Name="crystballlb.png" />
+          </Folder>
+          <Image Name="clairoom.PNG" />
+          <Image Name="crystball.PNG" />
+        </Folder>
+        <Folder Name="Inventory HUD">
+          <Image Name="bp.PNG" />
+          <Image Name="claws.PNG" />
+          <Image Name="damage.PNG" />
+          <Image Name="doll.PNG" />
+          <Image Name="fd.PNG" />
+          <Image Name="invhud.PNG" />
+          <Image Name="invslot.PNG" />
+          <Image Name="moti.PNG" />
+          <Image Name="sbback.PNG" />
+          <Image Name="sbla.PNG" />
+          <Image Name="sbra.PNG" />
+          <Image Name="sbs.PNG" />
+        </Folder>
+        <Folder Name="Player HUD">
+          <Image Name="bs.PNG" />
+          <Image Name="bsb.PNG" />
+          <Image Name="gb.PNG" />
+          <Image Name="gg.PNG" />
+          <Image Name="playermoti.PNG" />
+          <Image Name="playhud.PNG" />
+          <Image Name="playname.PNG" />
+          <Image Name="quit.png" />
+        </Folder>
+        <Folder Name="Quest HUD">
+          <Image Name="franco.PNG" />
+          <Image Name="francosp.PNG" />
+        </Folder>
+        <Folder Name="Scene Files">
+          <Folder Name="Layers">
+            <Project Name="Claws.csd" Type="Layer" />
+            <Project Name="FastDeliver.csd" Type="Layer" />
+            <Project Name="ShadyFig.csd" Type="Layer" />
+          </Folder>
+          <Project Name="MainScene.csd" Type="Scene" />
+          <Project Name="ShadyFig.csd" Type="Scene" />
+        </Folder>
+        <Folder Name="Shady Figure">
+          <Image Name="clawshop.PNG" />
+          <Image Name="fdshop.PNG" />
+          <Image Name="sfigroom.PNG" />
+        </Folder>
+        <Folder Name="Shop Scene">
+          <Folder Name="Celtic Potions">
+            <Image Name="celtroom.png" />
+            <Image Name="damshop.png" />
+            <Image Name="motishop.PNG" />
+          </Folder>
+          <Folder Name="Chavvy Goblin">
+            <Image Name="gobroom.PNG" />
+          </Folder>
+          <Folder Name="Shady Figure">
+            <Image Name="clawshop.PNG" />
+            <Image Name="fdshop.PNG" />
+            <Image Name="sfigroom.PNG" />
+          </Folder>
+          <Image Name="celt.PNG" />
+          <Image Name="gob.PNG" />
+          <Image Name="schro.PNG" />
+          <Image Name="sfig.png" />
+          <Image Name="shoproom.png" />
+        </Folder>
+        <Folder Name="Study Scene">
+          <Folder Name="Altar">
+            <Image Name="cdoll.PNG" />
+            <Image Name="combo.PNG" />
+            <Image Name="end1.png" />
+            <Image Name="end2.PNG" />
+            <Image Name="end3.png" />
+            <Image Name="end4.PNG" />
+            <Image Name="end5.PNG" />
+            <Image Name="slap.PNG" />
+          </Folder>
+          <Image Name="alt.png" />
+          <Image Name="studroom.PNG" />
+        </Folder>
+        <Image Name="bs.PNG" />
+        <Image Name="sfig.png" />
+        <Image Name="shoproom.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
